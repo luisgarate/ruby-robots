@@ -1,4 +1,4 @@
-# Mejuri Robot Challenge
+# Mejuri Robot
 
 - Generación de datos con la gema [Faker]([https://github.com/stympy/faker](https://github.com/stympy/faker))
 - 3 Robots solicitados con la funcionalidad correspondiente
